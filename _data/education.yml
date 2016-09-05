@@ -1,0 +1,13 @@
+- org:  NEXT Academy
+  role: Programming Bootcamp for Web Development
+  when: June 2016 – Aug 2016
+  bullets: 
+    - Participated in a 9 week intensive web development bootcamp.
+    - Course content includes Ruby, Ruby on rails, Javascript, HTML 5, CSS, integrating external gems, SQL databases, Rspec testing, deploying apps to Heroku
+    - Applications built during the course of the bootcamp was a sudoku solver, a bitly clone, a quora clone and an airbnb clone.
+                                                        
+- org:  Singapore Management University
+  role: Bachelors of Accountancy
+  when: Aug 2012 – May 2016
+  bullets: 
+    - Bachelor of Accountancy   

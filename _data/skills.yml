@@ -1,0 +1,22 @@
+- Languages:
+    primary:
+      - Ruby
+    secondary:
+      - Javascript
+      - CSS
+      - Postgresql
+      - HTML 5
+- Frameworks:
+    primary:
+      - Rails
+    secondary:
+      - Sinatra
+      - Websockets (Pubnub)
+      - Jekyll
+      - Redis
+
+# - Systems:
+#     primary:
+#       - 
+#     secondary:
+#       - 
