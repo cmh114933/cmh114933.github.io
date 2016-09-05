@@ -28,8 +28,7 @@ navigation: navigation
 # Google analytics ID: UA-XXXXX-X
 # analytics: 
 
-gem:
-  - jekyll-assets
+gems: [jekyll-assets]
 
 # Jekyll assets gem
 assets:
